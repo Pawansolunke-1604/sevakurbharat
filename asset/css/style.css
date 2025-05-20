@@ -1,0 +1,320 @@
+   .nav-link {
+      font-weight: bold;
+      list-style-type: none;
+      color: black;
+      font-size: 15px;
+      text-align: left;
+      /* width: 61px; */
+
+      
+    }
+
+    body, html {
+  overflow-x: hidden;
+}
+
+    .navbar {
+  border-bottom: 2px solid #241F63; /* or any color you want */
+  justify-content: space-between;
+}
+
+    .nav-link:hover, .nav-link.active {
+      color: deeppink !important;
+    }
+  .become-member-btn {
+  border: 2px solid #2b0d79;
+  color: #2b0d79;
+  font-weight: 500;
+  padding: 6px 16px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.become-member-btn:hover {
+  background-color: #2b0d79;
+  color: white;
+}
+
+.nav-icon {
+  font-size: 40px;
+  color: #2b0d79;
+  padding: 6px;
+  width: 70px;
+  border-radius: 50%;
+  transition: 0.3s ease;
+}
+
+.nav-logo{
+  height: 78px;
+  width: auto;
+ 
+  margin-bottom: -7px;
+}
+
+
+
+
+    
+  
+
+body{
+     background-color: #eefee7;
+    
+     z-index: 1;
+    
+
+}
+
+.content{
+    
+
+}
+    .center-text-section {
+ 
+  padding: 30px 20px;
+}
+
+.highlight {
+    font-size: 40px;
+ color: deeppink;
+  font-weight: 700;
+}
+
+
+
+
+.nextcontent {
+  text-align: center;
+  background-color: #d8f3dc; /* Light greenish background */
+  padding-bottom: 0;
+  position: relative;
+  border-bottom: 2px solid black;
+}
+
+.wave-image {
+  width: 85%;
+  
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.custom-list {
+  list-style: disc;
+  padding-left: 20px;
+  font-size: 15.5px;     /* Slightly smaller */
+  line-height: 1.7;
+  color: #333;
+}
+
+.custom-list li {
+  text-align: justify;    /* Justify the text */
+  margin-bottom: 10px;
+}
+
+.promise{
+  background-color: rgba(250, 238, 238, 0.438);
+  border-bottom: 4px solid #e62e88;
+  /* border-bottom: 2px solid rgb(204, 29, 58); */
+  
+}
+
+.promise-img{
+  width: 220px;
+}
+
+
+/* footer */
+
+/* form section */
+  body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0ffdf;
+    font-family: sans-serif;
+  }
+  
+  .join-section {
+    background-color: #b6e685;
+    padding: 0rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+  .input-field {
+    width: 220px;
+    padding: 8px 0;
+    background-color: #ffeaaa;
+    color: black; /* pure black */
+    font-size: 1.15rem; /* slightly larger */
+    font-weight: 600; /* semi-bold, or use 700 for bold */
+    text-align: center;
+    border: none;
+    border-radius: 12px;
+  }
+
+  .input-field:hover{
+     background-color: #e4c772;
+  }
+  
+  .join-button {
+    width: 220px;
+    padding: 8px 0;
+    background-color: #ff3399;
+    color: #000000; /* pure black */
+    font-size: 1.15rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  
+  .join-button:hover {
+    background-color: #e62e88;
+  }
+  /* form section  */
+  
+
+  /* footer fonts */
+  .custom-font-size {
+    font-size: 25px; /* You can adjust this value */
+  }
+  /* footer fonts */
+
+
+  .custom-footer {
+      margin-bottom: -40px;   /* Reduce bottom margin */
+      padding-bottom: 1px;  /* Reduce bottom padding */
+    }
+
+
+
+    .event-page{
+  background-color:#dcecc9;
+
+    }
+
+
+    .event-container{
+      background-color: white;
+          box-shadow: 0px 2px 6px #00000029;
+    /* padding: 20px; */
+    background: #fcfff4;
+    border-radius: 8px;
+}
+
+
+.event-wrapper {
+  border-bottom: 1px solid black;
+  padding: 16px 0;
+  overflow: hidden; /* Clear floats */
+}
+
+.boxinfo {
+  float: left;
+  border: 2px solid orange;
+  padding: 16px;
+  border-radius: 8px;
+  background-color: #fff;
+  width: 230px;
+  font-family: sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  margin-right: 30px;
+}
+
+.event-image {
+  float: left;
+}
+
+.event-image img {
+  width: 400px;
+  height: auto;
+  border-radius: 6px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 10px;
+  margin-left: 30px;
+}
+
+.show-link {
+  clear: both;
+  padding-top: 5px;
+  margin-left: 25%;
+}
+
+
+.register-btn{
+background-color: #a4eb5d;
+padding-left: 12px;
+border-radius: 12px;
+margin-left: 16px;
+  /* color: greenyellow; */
+}
+
+.hover-dropdown:hover > .dropdown-menu {
+  display: block;
+  margin-top: 0;
+  margin-bottom: 100px;
+  width: 30px;
+padding-right: 12px;
+list-style: none;
+  
+}
+
+
+
+
+
+/* Container for dropdown */
+.nav-dropdown-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+/* Hidden dropdown */
+.nav-dropdown-content {
+  display: none;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  background-color: white;
+  min-width: 250px;
+  padding: 20px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  border-radius: 10px;
+  z-index: 1000;
+}
+
+/* Show on hover */
+.nav-dropdown-wrapper:hover .nav-dropdown-content {
+  display: block;
+}
+
+/* Input styling */
+.nav-dropdown-content input[type="email"],
+.nav-dropdown-content input[type="password"] {
+  width: 100%;
+  padding: 8px 12px;
+  margin-bottom: 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Button styling */
+.nav-dropdown-content button {
+  width: 100%;
+  padding: 10px;
+  background-color: #EC1F5E;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+  cursor: pointer;
+}
